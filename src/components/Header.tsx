@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="container mx-auto h-16 flex justify-between items-center">
+    <header className="h-16 flex justify-between items-center">
       <nav>
         <ul className="flex gap-4">
           <li>Mulheres</li>
